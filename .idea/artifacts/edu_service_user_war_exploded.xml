@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="edu-service-user:war exploded">
+    <output-path>$PROJECT_DIR$/edu-service-user/target/edu-service-user</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="edu-service-user" />
+          <element id="module-output" name="edu-common" />
+          <element id="module-output" name="edu-common-config" />
+          <element id="module-output" name="edu-common-core" />
+          <element id="module-output" name="edu-facade-user" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/edu-service-user/target/edu-service-user/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="edu-service-user/web/Web" />
+    </root>
+  </artifact>
+</component>

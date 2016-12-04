@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/edu-common/edu-common.iml" filepath="$PROJECT_DIR$/edu-common/edu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-common-config/edu-common-config.iml" filepath="$PROJECT_DIR$/edu-common-config/edu-common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-common-core/edu-common-core.iml" filepath="$PROJECT_DIR$/edu-common-core/edu-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-common-web/edu-common-web.iml" filepath="$PROJECT_DIR$/edu-common-web/edu-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-demo-mqconsumer/edu-demo-mqconsumer.iml" filepath="$PROJECT_DIR$/edu-demo-mqconsumer/edu-demo-mqconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-demo-mqproducer/edu-demo-mqproducer.iml" filepath="$PROJECT_DIR$/edu-demo-mqproducer/edu-demo-mqproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-demo-redis/edu-demo-redis.iml" filepath="$PROJECT_DIR$/edu-demo-redis/edu-demo-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-dubbo.iml" filepath="$PROJECT_DIR$/edu-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-facade-user/edu-facade-user.iml" filepath="$PROJECT_DIR$/edu-facade-user/edu-facade-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-service-user/edu-service-user.iml" filepath="$PROJECT_DIR$/edu-service-user/edu-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-web-boss/edu-web-boss.iml" filepath="$PROJECT_DIR$/edu-web-boss/edu-web-boss.iml" />
+    </modules>
+  </component>
+</project>

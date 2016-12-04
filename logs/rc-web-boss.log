@@ -1,0 +1,80 @@
+[INFO ][20160906 05:02:32,000][ClientCnxn$SendThread:1085] Unable to read additional data from server sessionid 0x156fa85eeca0003, likely server has closed socket, closing socket connection and attempting reconnect
+[INFO ][20160906 05:02:32,106][ZkClient:449] zookeeper state changed (Disconnected)
+[INFO ][20160906 05:02:34,014][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:35,016][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:37,006][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:38,009][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:40,048][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:41,050][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:42,677][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:43,680][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:45,592][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:46,598][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:48,560][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:49,564][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:51,651][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:52,666][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:53,942][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:54,945][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:56,656][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:02:57,664][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:02:59,447][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:03:20,448][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection timed out: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:03:21,846][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
+[WARN ][20160906 05:03:42,854][ClientCnxn$SendThread:1089] Session 0x156fa85eeca0003 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection timed out: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:350)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1068)
+[INFO ][20160906 05:03:44,694][ClientCnxn$SendThread:966] Opening socket connection to server 192.168.1.23/192.168.1.23:2181. Will not attempt to authenticate using SASL (unknown error)
